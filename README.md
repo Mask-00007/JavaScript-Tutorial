@@ -66,20 +66,36 @@ A well-organized collection of concepts, examples, and exercises that build a st
 
 
 📦 javascript-learning
+
 ┣ 📜 dataTypes.js
+
 ┣ 📜 conversionOperation.js
+
 ┣ 📜 string.js
+
 ┣ 📜 numsAndMaths.js
+
 ┣ 📜 dates.js
+
 ┣ 📜 comparision.js
+
 ┣ 📜 arrays.js
+
 ┣ 📜 functions.js
+
 ┣ 📜 controlFlow.js
+
 ┣ 📜 loops.js
+
 ┣ 📜 objects.js
+
 ┣ 📜 promises.js
+
 ┣ 📜 events.html
+
+
 ┣ 📜 dom.html
+
 ┗ 📄 dataTypesSummary.txt
 
 
@@ -141,4 +157,4 @@ If you find this helpful:
 
 > 💡 *"Consistency beats intensity. Keep building every day."*
 
-## 📂 Project Structure
+
